@@ -1,71 +1,40 @@
-<!-- NỀN TRÁI ĐẤT + SAO -->
-<p align="center">
-  <img src="https://i.ibb.co/2dSYYq7/earth-glow.gif" alt="Earth" width="100%">
-</p>
-
+<!-- MrQ Galaxy Edition -->
 <h1 align="center">
-  <span style="font-size: 2.8em; background: linear-gradient(90deg, #00fff7, #ff00f7); -webkit-background-clip: text; color: transparent;">
-    🌌 MrQ 🚀
-  </span>
+  🌌 <b>MrQ</b> — <i>Developer from the Future</i> 🚀
 </h1>
 
-<h3 align="center">
-  <i>“Coding the Future with Cosmic Energy 💫”</i>
-</h3>
-
----
-
-### 👨‍💻 About Me
-
-> 🔭 Building bots, AI & automation systems  
-> ⚡ Always exploring new frontiers of code  
-> 💬 Ask me about: Python | JS | API | AI  
-> 💡 Motto: *Smart code, smart life.*
-
----
-
-### 🧠 Tech Stack
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,nodejs,react,vscode,github,git,linux,bash,ai&theme=dark" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full-stack+Developer;AI+and+Automation+Enthusiast;Creating+the+Future+with+Code" alt="Typing Animation" />
 </p>
 
 ---
 
-### ⚙️ GitHub Stats
-
+<h2 align="center">🛠️ Tech Stack</h2>
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=MrQ&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=MrQ&theme=tokyonight&hide_border=true" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,python,java,tailwind,git,github,vscode" />
 </p>
 
 ---
 
-### 🌍 Connect with Me
-
+<h2 align="center">🔥 GitHub Stats</h2>
 <p align="center">
-  <a href="https://github.com/MrQ">
-    <img src="https://img.shields.io/badge/GitHub-MrQ-181717?style=for-the-badge&logo=github">
-  </a>
-  <a href="mailto:mrq.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-mrq.dev%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=quang07&show_icons=true&theme=radical&hide_border=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=quang07&theme=radical&hide_border=true" />
 </p>
 
 ---
 
-### 🪐 Galaxy Motion
-
+<h2 align="center">🌍 Live Galaxy</h2>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation">
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devtran07/DEVTRAN07/main/assets/stars.gif" width="100%" alt="Stars animation">
+  👉 <a href="https://quang07.github.io/" target="_blank">Visit My 3D Galaxy Profile ✨</a>
 </p>
 
 ---
 
-<h4 align="center">
-  ✨ Designed by <b>MrQ</b> — Powered by imagination 🚀  
-</h4>
+<h2 align="center">📫 Contact</h2>
+<p align="center">
+  <a href="https://facebook.com/WUSTRANQUANG"><img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" height="60"/></a>
+  <a href="https://www.youtube.com/channel/UCHR9A0Q8k7fXKwpjyXlJKbA"><img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" height="60"/></a>
+  <a href="https://instagram.com/wuang07_"><img src="https://img.icons8.com/bubbles/100/000000/instagram.png" height="60"/></a>
+  <a href="mailto:qt7457307@gmail.com"><img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" height="60"/></a>
+</p>
