@@ -4,16 +4,26 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>🌌 MrQ | Full Stack Developer</title>
-  <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@600&family=Poppins:wght@400;600&display=swap" rel="stylesheet" />
   <link rel="stylesheet" href="style.css" />
+  <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@600&family=Poppins:wght@400;600&display=swap" rel="stylesheet">
 </head>
 
 <body>
-  <canvas id="stars"></canvas>
+  <!-- 🎬 Video Background -->
+  <video autoplay muted loop id="bg-video">
+    <source src="assets/galaxy.mp4" type="video/mp4">
+  </video>
 
+  <!-- 🌍 Earth Animation -->
+  <div class="earth-container">
+    <img src="assets/earth.gif" alt="Rotating Earth" class="earth">
+  </div>
+
+  <!-- 💫 Main Content -->
   <div class="content">
-    <img src="https://github.com/devtran07.png" class="avatar" alt="MrQ">
-    <h1 class="glow">👋 Hi, I'm <span>MrQ</span></h1>
+    <img src="assets/avatar.png" alt="Avatar" class="avatar" />
+
+    <h1 class="title">👋 Hi, I'm <span>MrQ</span></h1>
     <h2 class="subtitle">🚀 Full-Stack Developer | 🤖 AI & Automation Engineer</h2>
 
     <div class="typing">
@@ -26,11 +36,20 @@
 
     <div class="links">
       <a href="https://github.com/devtran07" target="_blank" class="btn">💎 GitHub</a>
-      <a href="mailto:yourmail@example.com" class="btn">📧 Contact</a>
+      <a href="mailto:yourmail@example.com" class="btn">📧 Mail</a>
       <a href="https://zalo.me/yourzalo" target="_blank" class="btn">💬 Zalo</a>
     </div>
 
+    <!-- 🌐 Social Icons -->
+    <div class="socials">
+      <a href="https://facebook.com/yourprofile"><img src="assets/icons/facebook.png" alt="Facebook"></a>
+      <a href="https://instagram.com/yourprofile"><img src="assets/icons/instagram.png" alt="Instagram"></a>
+      <a href="https://youtube.com/yourchannel"><img src="assets/icons/youtube.png" alt="YouTube"></a>
+      <a href="mailto:yourmail@example.com"><img src="assets/icons/mail.png" alt="Email"></a>
+    </div>
+
     <footer>
+      <img src="assets/code.gif" alt="Coding Animation" width="100">
       <p>🌠 Crafted with 💖 by <b>MrQ</b> | © 2025</p>
     </footer>
   </div>
