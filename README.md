@@ -1,57 +1,71 @@
-<!-- MrQ's GitHub Profile -->
-<h1 align="center">👋 Xin Chào Tất Cả Anh Em ✌️</h1>
-<h3 align="center">I'm <span style="color:#00ffff;">MrQ</span> from 🌍 <b>the Earth</b> ❤️</h3>
-
----
-
-<div align="center">
-  <img src="https://i.ibb.co/4fLJm8Y/earth-rotate.gif" alt="Earth Animation" width="180" style="border-radius:50%; box-shadow: 0 0 20px #00bfff;">
-</div>
-
----
-
-### 🧠 KỸ NĂNG VÀ CÔNG CỤ
+<!-- NỀN TRÁI ĐẤT + SAO -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,vue,nodejs,express,html,css,bootstrap,tailwind,vscode,git,figma,ps,wordpress" />
+  <img src="https://i.ibb.co/2dSYYq7/earth-glow.gif" alt="Earth" width="100%">
+</p>
+
+<h1 align="center">
+  <span style="font-size: 2.8em; background: linear-gradient(90deg, #00fff7, #ff00f7); -webkit-background-clip: text; color: transparent;">
+    🌌 MrQ 🚀
+  </span>
+</h1>
+
+<h3 align="center">
+  <i>“Coding the Future with Cosmic Energy 💫”</i>
+</h3>
+
+---
+
+### 👨‍💻 About Me
+
+> 🔭 Building bots, AI & automation systems  
+> ⚡ Always exploring new frontiers of code  
+> 💬 Ask me about: Python | JS | API | AI  
+> 💡 Motto: *Smart code, smart life.*
+
+---
+
+### 🧠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,nodejs,react,vscode,github,git,linux,bash,ai&theme=dark" />
 </p>
 
 ---
 
-### 🔥 THỐNG KÊ GITHUB 🔥
+### ⚙️ GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=quang07&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quang07&layout=compact&theme=tokyonight" height="165" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=MrQ&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=MrQ&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-### 🌐 MẠNG XÃ HỘI
+### 🌍 Connect with Me
+
 <p align="center">
-  <a href="https://facebook.com/" target="_blank"><img src="https://img.icons8.com/color/48/facebook-new.png" /></a>
-  <a href="https://t.me/" target="_blank"><img src="https://img.icons8.com/color/48/telegram-app.png" /></a>
-  <a href="https://www.instagram.com/" target="_blank"><img src="https://img.icons8.com/color/48/instagram-new.png" /></a>
-  <a href="mailto:youremail@example.com"><img src="https://img.icons8.com/color/48/gmail.png" /></a>
+  <a href="https://github.com/MrQ">
+    <img src="https://img.shields.io/badge/GitHub-MrQ-181717?style=for-the-badge&logo=github">
+  </a>
+  <a href="mailto:mrq.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-mrq.dev%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
 </p>
 
 ---
 
-### 💻 CÔNG VIỆC HIỆN TẠI
+### 🪐 Galaxy Motion
+
 <p align="center">
-  🚀 <b>Phát triển BOT Messenger / Zalo</b><br>
-  💡 <i>"Tự động hóa – Thông minh – Đẹp mắt"</i>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation">
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devtran07/DEVTRAN07/main/assets/stars.gif" width="100%" alt="Stars animation">
 </p>
 
 ---
 
-### ✨ Hiệu Ứng Typing
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&width=450&lines=Fullstack+Developer;AI+and+Automation+Builder;Zalo+Bot+Creator;Welcome+to+my+world+🌎" alt="Typing SVG" />
-</p>
-
----
-
-<h4 align="center">💬 Hãy Kết Nối Với MrQ 💬</h4>
-<p align="center">
-  <img src="https://i.ibb.co/d5mtK7L/earth-glow.gif" width="60">
-</p>
-
+<h4 align="center">
+  ✨ Designed by <b>MrQ</b> — Powered by imagination 🚀  
+</h4>
