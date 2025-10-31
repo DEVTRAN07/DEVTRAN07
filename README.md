@@ -1,5 +1,23 @@
 <!-- 🌈 Hồ sơ GitHub Cao cấp | MrQ - Nhà phát triển Full-Stack & Kỹ sư AI -->
-<div align="center">
+
+<style>
+  .alien-bg {
+    background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab, #ff6b6b, #4ecdc4, #45b7d1, #96ceb4);
+    background-size: 400% 400%;
+    animation: gradientShift 15s ease infinite;
+    color: white;
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: 0 0 50px rgba(0,255,255,0.5), 0 0 100px rgba(255,0,255,0.3);
+  }
+  @keyframes gradientShift {
+    0% { background-position: 0% 50%; }
+    50% { background-position: 100% 50%; }
+    100% { background-position: 0% 50%; }
+  }
+</style>
+
+<div align="center" class="alien-bg">
 
   <!-- 🎨 Tiêu đề động với Gradient -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient:custom,00ffff,ff00ff,00ffff&height=200&section=header&text=✨%20MrQ%20✨&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=🚀%20Nhà%20phát%20triển%20Full-Stack%20|%20🤖%20Kỹ%20sư%20AI%20%26%20Tự%20động%20hóa&descAlignY=60"/>
@@ -21,6 +39,26 @@
   <img src="https://i.ibb.co/6Yf4Z3m/galaxy.gif" width="100%" height="100" alt="galaxy background"/>
 
 </div>
+
+<!-- Alien 3D Background Effect -->
+<div style="position: relative; overflow: hidden; height: 200px; margin: 20px 0;">
+  <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: radial-gradient(circle at 20% 80%, rgba(120, 119, 198, 0.3) 0%, transparent 50%), radial-gradient(circle at 80% 20%, rgba(255, 119, 198, 0.3) 0%, transparent 50%), radial-gradient(circle at 40% 40%, rgba(120, 255, 198, 0.3) 0%, transparent 50%); animation: float 6s ease-in-out infinite;"></div>
+  <div style="position: absolute; top: 10%; left: 10%; width: 50px; height: 50px; background: rgba(0,255,255,0.7); border-radius: 50%; animation: spin 4s linear infinite;"></div>
+  <div style="position: absolute; top: 20%; right: 20%; width: 30px; height: 30px; background: rgba(255,0,255,0.7); border-radius: 50%; animation: spin 3s linear infinite reverse;"></div>
+  <div style="position: absolute; bottom: 20%; left: 30%; width: 40px; height: 40px; background: rgba(255,255,0,0.7); border-radius: 50%; animation: spin 5s linear infinite;"></div>
+  <div style="position: absolute; bottom: 10%; right: 10%; width: 25px; height: 25px; background: rgba(0,255,0,0.7); border-radius: 50%; animation: spin 2s linear infinite reverse;"></div>
+</div>
+
+<style>
+  @keyframes float {
+    0%, 100% { transform: translateY(0px); }
+    50% { transform: translateY(-20px); }
+  }
+  @keyframes spin {
+    from { transform: rotate(0deg); }
+    to { transform: rotate(360deg); }
+  }
+</style>
 
 ---
 
