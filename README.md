@@ -208,15 +208,37 @@
 ---
 
   <!-- 📈 Biểu đồ Hoạt động -->
-  <div align="center">
+  <div align="center" style="animation: zoomIn 2s ease-out;">
 
-  <h2 style="color:#00ffff;font-family:'Orbitron',sans-serif;text-shadow:0 0 20px #00ffff;margin-top:40px;">
+  <h2 style="color:#00ffff;font-family:'Orbitron',sans-serif;text-shadow:0 0 20px #00ffff;margin-top:40px;animation: pulse 2s infinite;">
     📈 <span style="background:linear-gradient(90deg,#00ffff,#ff00ff,#00ffff);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">Hoạt động GitHub</span>
   </h2>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devtran07&theme=tokyo-night&bg_color=00000000&color=00ffff&line=ff00ff&point=00ffff&area=true&hide_border=true&radius=15&custom_title=📊%20Hoạt%20động%20Đóng%20góp%20của%20Tôi"/>
+  <div style="position: relative; overflow: hidden; border-radius: 15px; box-shadow: 0 0 30px rgba(0,255,255,0.5); animation: borderGlow 3s ease-in-out infinite alternate;">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=devtran07&theme=tokyo-night&bg_color=00000000&color=00ffff&line=ff00ff&point=00ffff&area=true&hide_border=true&radius=15&custom_title=📊%20Hoạt%20động%20Đóng%20góp%20của%20Tôi" style="animation: fadeIn 3s ease-out; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'"/>
+  </div>
 
 </div>
+
+<style>
+  @keyframes zoomIn {
+    from { opacity: 0; transform: scale(0.8); }
+    to { opacity: 1; transform: scale(1); }
+  }
+  @keyframes pulse {
+    0% { transform: scale(1); }
+    50% { transform: scale(1.05); }
+    100% { transform: scale(1); }
+  }
+  @keyframes borderGlow {
+    from { box-shadow: 0 0 30px rgba(0,255,255,0.5); }
+    to { box-shadow: 0 0 50px rgba(255,0,255,0.8); }
+  }
+  @keyframes fadeIn {
+    from { opacity: 0; }
+    to { opacity: 1; }
+  }
+</style>
 
 ---
 
@@ -302,24 +324,50 @@
 ---
 
   <!-- 🌟 Thành tựu & Điểm nổi bật -->
-  <div align="center">
+  <div align="center" style="animation: fadeInUp 2s ease-out;">
 
-  <h2 style="color:#00ffff;font-family:'Orbitron',sans-serif;text-shadow:0 0 20px #00ffff;margin-top:40px;">
+  <h2 style="color:#00ffff;font-family:'Orbitron',sans-serif;text-shadow:0 0 20px #00ffff;margin-top:40px;animation: glow 3s ease-in-out infinite alternate;">
     🌟 <span style="background:linear-gradient(90deg,#00ffff,#ff00ff,#00ffff);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">Thành tựu & Điểm nổi bật</span>
   </h2>
 
   <p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devtran07&theme=tokyonight" alt="Profile Details"/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=devtran07&theme=tokyonight" alt="Repos per Language"/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=devtran07&theme=tokyonight" alt="Most Commit Language"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devtran07&theme=tokyonight" alt="Profile Details" style="animation: slideInLeft 1.5s ease-out; margin: 10px; border-radius: 10px; box-shadow: 0 0 20px rgba(0,255,255,0.5); transition: transform 0.3s;"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=devtran07&theme=tokyonight" alt="Repos per Language" style="animation: slideInRight 1.5s ease-out; margin: 10px; border-radius: 10px; box-shadow: 0 0 20px rgba(255,0,255,0.5); transition: transform 0.3s;"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=devtran07&theme=tokyonight" alt="Most Commit Language" style="animation: slideInUp 1.5s ease-out; margin: 10px; border-radius: 10px; box-shadow: 0 0 20px rgba(0,255,0,0.5); transition: transform 0.3s;"/>
   </p>
 
   <p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=devtran07&theme=tokyonight" alt="Stats"/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=devtran07&theme=tokyonight&utcOffset=8" alt="Productive Time"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=devtran07&theme=tokyonight" alt="Stats" style="animation: slideInLeft 2s ease-out; margin: 10px; border-radius: 10px; box-shadow: 0 0 20px rgba(255,255,0,0.5); transition: transform 0.3s;"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=devtran07&theme=tokyonight&utcOffset=8" alt="Productive Time" style="animation: slideInRight 2s ease-out; margin: 10px; border-radius: 10px; box-shadow: 0 0 20px rgba(255,0,0,0.5); transition: transform 0.3s;"/>
   </p>
 
 </div>
+
+<style>
+  @keyframes fadeInUp {
+    from { opacity: 0; transform: translateY(30px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+  @keyframes glow {
+    from { text-shadow: 0 0 20px #00ffff; }
+    to { text-shadow: 0 0 40px #ff00ff; }
+  }
+  @keyframes slideInLeft {
+    from { opacity: 0; transform: translateX(-50px); }
+    to { opacity: 1; transform: translateX(0); }
+  }
+  @keyframes slideInRight {
+    from { opacity: 0; transform: translateX(50px); }
+    to { opacity: 1; transform: translateX(0); }
+  }
+  @keyframes slideInUp {
+    from { opacity: 0; transform: translateY(50px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+  img:hover {
+    transform: scale(1.05);
+  }
+</style>
 
 ---
 
