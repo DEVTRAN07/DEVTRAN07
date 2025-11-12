@@ -34,16 +34,6 @@
   <div style="position: absolute; bottom: 10%; right: 10%; width: 25px; height: 25px; background: rgba(0,255,0,0.7); border-radius: 50%; animation: spin 2s linear infinite reverse;"></div>
 </div>
 
-<style>
-  @keyframes float {
-    0%, 100% { transform: translateY(0px); }
-    50% { transform: translateY(-20px); }
-  }
-  @keyframes spin {
-    from { transform: rotate(0deg); }
-    to { transform: rotate(360deg); }
-  }
-</style>
 
 ---
 
@@ -205,25 +195,6 @@
 
 </div>
 
-<style>
-  @keyframes zoomIn {
-    from { opacity: 0; transform: scale(0.8); }
-    to { opacity: 1; transform: scale(1); }
-  }
-  @keyframes pulse {
-    0% { transform: scale(1); }
-    50% { transform: scale(1.05); }
-    100% { transform: scale(1); }
-  }
-  @keyframes borderGlow {
-    from { box-shadow: 0 0 30px rgba(0,255,255,0.5); }
-    to { box-shadow: 0 0 50px rgba(255,0,255,0.8); }
-  }
-  @keyframes fadeIn {
-    from { opacity: 0; }
-    to { opacity: 1; }
-  }
-</style>
 
 ---
 
@@ -328,31 +299,6 @@
 
 </div>
 
-<style>
-  @keyframes fadeInUp {
-    from { opacity: 0; transform: translateY(30px); }
-    to { opacity: 1; transform: translateY(0); }
-  }
-  @keyframes glow {
-    from { text-shadow: 0 0 20px #00ffff; }
-    to { text-shadow: 0 0 40px #ff00ff; }
-  }
-  @keyframes slideInLeft {
-    from { opacity: 0; transform: translateX(-50px); }
-    to { opacity: 1; transform: translateX(0); }
-  }
-  @keyframes slideInRight {
-    from { opacity: 0; transform: translateX(50px); }
-    to { opacity: 1; transform: translateX(0); }
-  }
-  @keyframes slideInUp {
-    from { opacity: 0; transform: translateY(50px); }
-    to { opacity: 1; transform: translateY(0); }
-  }
-  img:hover {
-    transform: scale(1.05);
-  }
-</style>
 
 ---
 
