@@ -1,21 +1,6 @@
 <!-- 🌈 Hồ sơ GitHub Cao cấp | MrQ - Nhà phát triển Full-Stack & Kỹ sư AI -->
 
-<style>
-  .alien-bg {
-    background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab, #ff6b6b, #4ecdc4, #45b7d1, #96ceb4);
-    background-size: 400% 400%;
-    animation: gradientShift 15s ease infinite;
-    color: white;
-    padding: 20px;
-    border-radius: 15px;
-    box-shadow: 0 0 50px rgba(0,255,255,0.5), 0 0 100px rgba(255,0,255,0.3);
-  }
-  @keyframes gradientShift {
-    0% { background-position: 0% 50%; }
-    50% { background-position: 100% 50%; }
-    100% { background-position: 0% 50%; }
-  }
-</style>
+
 
 <div align="center" class="alien-bg">
 
